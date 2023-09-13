@@ -1,0 +1,23 @@
+/*global css style*/
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+.section-width{
+    max-width: 1440px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.team-banner {
+    background: linear-gradient(rgba(0, 0, 0, 0.37), rgba(27, 27, 27, 0.39)),
+      url("./images/banner3.png");
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+  }
